@@ -5,7 +5,7 @@ If any questions, welcome for Issues & PRs
 
 ### Overview
 
-eMMC module PCB compatible with OrangPi, Radxa, NanoPi M6.
+eMMC module PCB compatible with OrangPi, Radxa, etc.
 - The PCB takes 4 layers JLC04XX1H-3313 Stacking Profile, for 0.8mm thickness would be JLC04081H-3313.
 - The B2B connector is GB042-34P-H10-E3000 and GB042-34S-H10-E3000.
 
