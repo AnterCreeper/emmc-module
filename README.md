@@ -12,6 +12,7 @@
 | `emmc-module.kicad_sym` | 项目符号库 |
 | `emmc-module.pretty/` | GB042 连接器封装 |
 | `emmc-module-schematic.pdf` | 原理图导出 |
+| `docs/GB040.pdf` | GB040 系列 0.4 mm BTB 连接器规格书（aitendo） |
 
 ## 设计说明
 
@@ -40,7 +41,7 @@ U1 的 C5 指 BGA 球位；原理图中另有一个去耦电容 C5 接 VCCQ，�
 
 ### 连接器
 
-J1 为 GB042-34S-H10-E3000：
+J1 为 GB042-34S-H10-E3000，属于 GB040 系列，规格书见 `docs/GB040.pdf`：
 
 - VCCQ：20、21
 - VCC：22、23
