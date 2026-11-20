@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "emmc-module")(type "KiCad")(uri "${KIPRJMOD}/emmc-module.pretty")(options "")(descr "Recovered GB042 footprint"))
+  (lib (name "Package_BGA")(type "KiCad")(uri "${KICAD9_FOOTPRINT_DIR}/Package_BGA.pretty")(options "")(descr ""))
+  (lib (name "Capacitor_SMD")(type "KiCad")(uri "${KICAD9_FOOTPRINT_DIR}/Capacitor_SMD.pretty")(options "")(descr ""))
+)
